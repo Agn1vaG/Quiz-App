@@ -1,6 +1,6 @@
 # Quiz-App
 
-# A simple Spring Boot project that provides an API to fetch random programming-related questions from a selected category. It uses PostgreSQL as the database and allows users to retrieve quiz questions based on their preferred programming language.
+A simple Spring Boot project that provides an API to fetch random programming-related questions from a selected category. It uses PostgreSQL as the database and allows users to retrieve quiz questions based on their preferred programming language.
 
 # Features
  -Fetch random questions from a specified programming category
